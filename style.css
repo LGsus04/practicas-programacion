@@ -1,8 +1,13 @@
-body{
+body {
     background-color: aqua;
 }
 
-h1{
+h1 {
     color: navy;
     margin-left: 20px;
+}
+
+p {
+    font-weight: bolder;
+    font-size: xx-large;
 }
